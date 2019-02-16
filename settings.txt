@@ -1,0 +1,31 @@
+//// settings TESTING DEMO IDEAS
+
+web_reload|20001
+web_seconds|332
+
+web_highpriorityurl|0
+web_highpriorityinterval|170
+
+web_randomizebrowsersize|1
+web_randomizebrowserrange|175
+
+web_loop|1
+web_randomize|0
+
+web_chkreopen|0
+web_intervalreopen|21
+
+////FILE AUTOLOAD
+web_chkautoloadurl|1
+web_fileautoloadurl|listc-.txt
+
+web_randomizeInterval|1
+web_intrandomizerange|11
+
+web_autoclose|1
+web_autoclosetime|11
+
+web_autofinishopenchk|0
+web_autofinishopenrange|3
+
+web_numwindows|1
