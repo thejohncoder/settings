@@ -9,8 +9,8 @@ web_highpriorityinterval|170
 web_randomizebrowsersize|1
 web_randomizebrowserrange|175
 
-web_loop|1
-web_randomize|0
+web_loop|0
+web_randomize|1
 
 web_chkreopen|0
 web_intervalreopen|21
